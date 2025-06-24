@@ -23,12 +23,8 @@ for i in range(len(console_data)):
     print(console_data[i])
 
 # Task 2: Retrieve specific console data
-print("
-Sega CD Data:")
-print(console_data[8])
-
-print("Game Boy Units Sold:")
-print(console_data[1][5])
+print(f"Sega CD Data: {console_data[8]}")
+print(f"Game Boy Units Sold: {console_data[1][5]}")
 
 # Task 3: Total units sold for all consoles
 total_sold = 0
