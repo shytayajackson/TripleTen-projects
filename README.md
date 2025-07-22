@@ -59,7 +59,7 @@ Sum units sold for:
 ## 🚀 How to Run
 
 1. Clone this repository:
-   git clone https://github.com/yourusername/tripleten-python-case-study.git
+   git clone https://github.com/shytayajackson/tripleten-python-case-study.git
    cd tripleten-python-case-study
 2. Run the Python script:
    python tripleten_case_study.py
